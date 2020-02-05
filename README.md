@@ -9,4 +9,4 @@ various type of optimisation technique are used
 7.simple gradient method
 8.newton method
 9.newton levenburg method
-10. modifie4d newton method
+10. modified newton method
